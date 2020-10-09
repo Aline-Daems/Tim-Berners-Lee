@@ -230,6 +230,8 @@ main {
 
     
     margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
     grid-column-start: 2;
     grid-column-end: 5;
     grid-row: 3;
@@ -241,6 +243,8 @@ main {
 
     
     margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
     grid-column-start: 2;
     grid-column-end: 5;
     grid-row: 5;
@@ -252,6 +256,8 @@ main {
 
     
     margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
     grid-row: 7;
     grid-column-start: 2;
     grid-column-end:5;
